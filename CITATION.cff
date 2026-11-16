@@ -1,0 +1,15 @@
+message: "If you use this software or epidemiological framework, please cite it as below."
+title: "Cross-Continental Epidemiological Surveillance of Artisanal Mining Respiratory Morbidity"
+authors:
+  - family-names: "Richard"
+    given-names: "Michael"
+    name-suffix: "Jr."
+date-released: 2026-11-15
+license: MIT
+keywords:
+  - artisanal and small-scale mining
+  - silicosis
+  - domain adversarial neural networks
+  - remote sensing
+  - environmental epidemiology
+"""

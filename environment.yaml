@@ -1,0 +1,30 @@
+name: asm_health
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - scikit-image
+  - pytorch
+  - geopandas
+  - rioxarray
+  - xarray
+  - netcdf4
+  - asf_search
+  - hyp3_sdk
+  - earthaccess
+  - cdsapi
+  - matplotlib
+  - seaborn
+  - r-base>=4.3
+  - r-dplyr
+  - r-tidyr
+  - r-pscl
+  - r-mass
+  - r-sandwich
+  - r-lmtest
+  - r-ggplot2

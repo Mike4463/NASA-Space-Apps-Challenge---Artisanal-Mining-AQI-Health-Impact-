@@ -1,0 +1,32 @@
+# Raw satellite & meteorological rasters (keep derived CSVs & PNGs tracked)
+asm_pipeline_workspace/raw_rasters/
+*.tif
+*.tiff
+*.hdf
+*.nc
+*.zip
+
+# Large external geological layers (document download in geology_layers/README.md)
+geology_layers/*.gpkg
+geology_layers/*.shp
+geology_layers/*.dbf
+geology_layers/*.shx
+geology_layers/*.prj
+
+# Credentials & environment secrets
+.netrc
+.cdsapirc
+.env
+*credentials*
+*secret*
+
+# Python, R, and macOS artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+.venv/
+_archive_scripts/
