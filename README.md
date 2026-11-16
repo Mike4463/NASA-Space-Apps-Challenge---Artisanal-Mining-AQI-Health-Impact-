@@ -1,0 +1,2 @@
+# NASA-Space-Apps-Challenge---Artisanal-Mining-AQI-Health-Impact-
+Cross-continental epidemiological surveillance of artisanal mining (ASM) respiratory morbidity in the DRC, calibrated via Jamaican bauxite surveillance using Sentinel-1 SAR, MODIS MAIAC AOD, ERA5 meteorology, GLiM crystalline-silica priors, RMT-CORAL + DANN transfer learning, and R SIR/DiD models.
