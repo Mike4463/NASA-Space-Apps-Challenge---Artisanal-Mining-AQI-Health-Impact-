@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24269769.svg)](https://doi.org/10.5281/zenodo.24269769)
+
 # Cross-Continental Epidemiological Surveillance of Artisanal Mining Respiratory Morbidity
 
 A multi-modal Earth observation, domain-adversarial deep learning, and statistical epidemiology framework for detecting underreported respiratory morbidity (silicosis and acute respiratory illness) in artisanal and small-scale mining (ASM) corridors of the Democratic Republic of the Congo (DRC), calibrated against validated clinical surveillance from Jamaican bauxite-mining parishes.
@@ -40,3 +42,20 @@ A multi-modal Earth observation, domain-adversarial deep learning, and statistic
 ```bash
 conda env create -f environment.yml
 conda activate asm_health
+
+## Citation
+
+If you use this pipeline, datasets, or epidemiological framework in your research, please cite it using the Zenodo archive:
+
+> Prichard, M., Jr. (2026). *Cross-Continental Epidemiological Surveillance of Artisanal Mining Respiratory Morbidity* (v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24269769
+
+```bibtex
+@software{Prichard_ASM_Respiratory_Surveillance_2026,
+  author  = {Richard, Michael P., Jr.},
+  title   = {Cross-Continental Epidemiological Surveillance of Artisanal Mining Respiratory Morbidity},
+  version = {1.0.0},
+  year    = {2026},
+  publisher = {Zenodo},
+  doi     = {10.5281/zenodo.24269769},
+  url     = {[https://doi.org/10.5281/zenodo.24269769](https://doi.org/10.5281/zenodo.24269769)}
+}
